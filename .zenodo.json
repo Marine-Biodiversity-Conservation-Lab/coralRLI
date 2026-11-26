@@ -1,0 +1,15 @@
+{
+  "title": "coralRLI: threats, Red List Index and CO₂ responsibility for reef-building corals (data and code)",
+  "upload_type": "software",
+  "description": "Minimal data and R code to reproduce the three-panel figure on reef-building corals in Yan &amp; Dulvy (2026), Accelerating extinction risk of reef-building corals: (a) the level-1 threats coded for the 892 reef-building coral species, (b) the range-weighted Red List Index by Global Coral Reef Monitoring Network region, built from the back-cast categories of Obura et al. (2026), and (c) each country's share of cumulative CO₂ emissions against its share of the world's reef area. Code is MIT-licensed; summary tables in data/ and the figure in outputs/ are CC BY 4.0. IUCN Red List range polygons and species-level assessment data are not included.",
+  "creators": [
+    {"name": "Yan, Hannah F."},
+    {"name": "Dulvy, Nicholas K."}
+  ],
+  "license": "MIT",
+  "keywords": ["reef-building corals", "Red List Index", "IUCN Red List", "extinction risk", "coral reefs", "CO2 emissions", "climate change", "GCRMN"],
+  "related_identifiers": [
+    {"identifier": "10.1038/s41586-026-11263-3", "relation": "references", "scheme": "doi"}
+  ],
+  "access_right": "open"
+}
