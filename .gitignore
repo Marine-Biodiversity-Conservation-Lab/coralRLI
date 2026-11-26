@@ -1,0 +1,11 @@
+# Downloaded and licensed inputs (see README, "Data")
+data/raw/
+# Intermediate tables, some species-level (IUCN terms)
+data/work/
+
+# R and OS clutter
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+.DS_Store

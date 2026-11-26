@@ -1,0 +1,210 @@
+iso3,name,co2_share,reef_share
+IDN,Indonesia,0.942,20.2786
+AUS,Australia,1.084,11.0381
+PHL,Philippines,0.215,10.5243
+PNG,Papua New Guinea,0.011,6.6697
+FRA,France,2.1769999999999996,5.3358
+BHS,Bahamas,0.01,3.3621
+SLB,Solomon Is.,0.001,2.8471
+FJI,Fiji,0.003,2.5297
+SAU,Saudi Arabia,1.029,2.0162
+CUB,Cuba,0.098,1.9927
+MDV,Maldives,0.002,1.8089
+FSM,Micronesia,0,1.7731
+USA,United States of America,23.517,1.7551
+MDG,Madagascar,0.006,1.619
+MHL,Marshall Is.,0,1.4553
+IND,India,3.573,1.4448
+MYS,Malaysia,0.381,1.3843
+EGY,Egypt,0.404,1.2167
+MEX,Mexico,1.191,1.1514
+MUS,Mauritius,0.007,1.1415
+TZA,Tanzania,0.019,0.9738
+VUT,Vanuatu,0,0.9667
+MMR,Myanmar,0.039,0.8315
+MOZ,Mozambique,0.011,0.7651
+JPN,Japan,3.765,0.7438
+ERI,Eritrea,0.001,0.7375
+KIR,Kiribati,0,0.6934
+TON,Tonga,0,0.5732
+PAN,Panama,0.019,0.5623
+VNM,Vietnam,0.307,0.5467
+BRA,Brazil,0.984,0.5407
+HTI,Haiti,0.005,0.4931
+BLZ,Belize,0.001,0.4879
+GBR,United Kingdom,4.333,0.4851
+SYC,Seychelles,0.001,0.468
+THA,Thailand,0.449,0.4526
+YEM,Yemen,0.038,0.4506
+DOM,Dominican Rep.,0.047,0.4171
+SDN,Sudan,0.028,0.4002
+COL,Colombia,0.206,0.3766
+HND,Honduras,0.017,0.372
+CHN,China,15.515,0.3714
+ARE,United Arab Emirates,0.315,0.3691
+TUV,Tuvalu,0,0.3652
+JAM,Jamaica,0.026,0.3163
+NIC,Nicaragua,0.011,0.3154
+VEN,Venezuela,0.426,0.3056
+OMN,Oman,0.09,0.3002
+PLW,Palau,0.001,0.2981
+NZL,New Zealand,0.109,0.2743
+KEN,Kenya,0.03,0.2459
+SOM,Somalia,0.002,0.2453
+TWN,Taiwan,0.546,0.2447
+DSP,Disputed areas (unallocated),NA,0.2256
+BHR,Bahrain,0.06,0.2015
+NLD,Netherlands,0.7000000000000001,0.201
+QAT,Qatar,0.14,0.1857
+WSM,Samoa,0,0.1796
+IRN,Iran,1.18,0.1785
+LKA,Sri Lanka,0.031,0.1773
+COM,Comoros,0,0.1698
+TLS,Timor-Leste,0.001,0.1439
+DJI,Djibouti,0.001,0.1407
+CRI,Costa Rica,0.015,0.1307
+ECU,Ecuador,0.075,0.1306
+KHM,Cambodia,0.014,0.0936
+BRN,Brunei,0.023,0.0632
+GRD,Grenada,0.001,0.0547
+ATG,Antigua and Barb.,0.001,0.0535
+VCT,St. Vin. and Gren.,0,0.0492
+KNA,St. Kitts and Nevis,0,0.0482
+TTO,Trinidad and Tobago,0.093,0.0458
+DMA,Dominica,0,0.0378
+BRB,Barbados,0.003,0.0345
+LCA,Saint Lucia,0.001,0.0344
+KWT,Kuwait,0.21,0.031
+SGP,Singapore,0.122,0.0168
+GTM,Guatemala,0.028,0.0108
+JOR,Jordan,0.043,0.0081
+NRU,Nauru,0,0.0075
+ZAF,South Africa,1.234,0.005
+BGD,Bangladesh,0.108,0.0035
+ISR,Israel,0.141,0.0033
+CHL,Chile,0.18,0
+BOL,Bolivia,0.035,0
+PER,Peru,0.117,0
+ARG,Argentina,0.495,0
+CYP,Cyprus,0.017,0
+LBN,Lebanon,0.043,0
+ETH,Ethiopia,0.018,0
+SSD,S. Sudan,0.002,0
+MWI,Malawi,0.003,0
+SYR,Syria,0.111,0
+SUR,Suriname,0.007,0
+GUY,Guyana,0.006,0
+KOR,South Korea,1.12,0
+PRK,North Korea,0.297,0
+MAR,Morocco,0.109,0
+ESH,W. Sahara,NA,0
+COG,Congo,0.01,0
+COD,Dem. Rep. Congo,0.013,0
+BTN,Bhutan,0.002,0
+UKR,Ukraine,1.689,0
+BLR,Belarus,0.28,0
+NAM,Namibia,0.005,0
+UZB,Uzbekistan,0.365,0
+KAZ,Kazakhstan,0.808,0
+TJK,Tajikistan,0.028,0
+LTU,Lithuania,0.087,0
+URY,Uruguay,0.026,0
+MNG,Mongolia,0.047,0
+RUS,Russia,6.641,0
+CZE,Czechia,0.667,0
+DEU,Germany,5.145,0
+EST,Estonia,0.09,0
+LVA,Latvia,0.053,0
+NOR,Norway,0.151,0
+SWE,Sweden,0.278,0
+FIN,Finland,0.18,0
+LUX,Luxembourg,0.042,0
+BEL,Belgium,0.698,0
+GEO,Georgia,0.036,0
+MKD,North Macedonia,0.029,0
+ALB,Albania,0.017,0
+AZE,Azerbaijan,0.143,0
+KOS,Kosovo,NA,0
+TUR,Turkey,0.697,0
+ESP,Spain,0.849,0
+LAO,Laos,0.013,0
+KGZ,Kyrgyzstan,0.048,0
+ARM,Armenia,0.022,0
+DNK,Denmark,0.231,0
+LBY,Libya,0.135,0
+TUN,Tunisia,0.058,0
+ROU,Romania,0.479,0
+HUN,Hungary,0.28,0
+SVK,Slovakia,0.218,0
+POL,Poland,1.571,0
+IRL,Ireland,0.128,0
+GRC,Greece,0.232,0
+ZMB,Zambia,0.016,0
+SLE,Sierra Leone,0.002,0
+GIN,Guinea,0.006,0
+LBR,Liberia,0.003,0
+CAF,Central African Rep.,0.001,0
+AUT,Austria,0.311,0
+IRQ,Iraq,0.289,0
+ITA,Italy,1.406,0
+CHE,Switzerland,0.171,0
+LIE,Liechtenstein,0.001,0
+CIV,Côte d'Ivoire,0.022,0
+SRB,Serbia,0.158,0
+MLI,Mali,0.005,0
+SEN,Senegal,0.016,0
+NGA,Nigeria,0.255,0
+BEN,Benin,0.007,0
+AGO,Angola,0.04,0
+HRV,Croatia,0.064,0
+SVN,Slovenia,0.049,0
+BWA,Botswana,0.01,0
+ZWE,Zimbabwe,0.045,0
+PAK,Pakistan,0.31,0
+BGR,Bulgaria,0.215,0
+SMR,San Marino,NA,0
+TCD,Chad,0.003,0
+SLV,El Salvador,0.014,0
+MCO,Monaco,NA,0
+DZA,Algeria,0.296,0
+SWZ,eSwatini,0.002,0
+BDI,Burundi,0.001,0
+RWA,Rwanda,0.002,0
+AND,Andorra,0.001,0
+AFG,Afghanistan,0.013,0
+MNE,Montenegro,0.007,0
+BIH,Bosnia and Herz.,0.056,0
+UGA,Uganda,0.007,0
+PRY,Paraguay,0.011,0
+PRT,Portugal,0.15,0
+MDA,Moldova,0.073,0
+TKM,Turkmenistan,0.148,0
+NPL,Nepal,0.013,0
+LSO,Lesotho,0.004,0
+CMR,Cameroon,0.017,0
+GAB,Gabon,0.017,0
+NER,Niger,0.003,0
+BFA,Burkina Faso,0.005,0
+TGO,Togo,0.004,0
+GHA,Ghana,0.023,0
+GNB,Guinea-Bissau,0,0
+CAN,Canada,1.928,0
+MRT,Mauritania,0.005,0
+GNQ,Eq. Guinea,0.009,0
+GMB,Gambia,0.001,0
+VAT,Vatican,NA,0
+CYN,N. Cyprus,NA,0
+CNM,Cyprus U.N. Buffer Zone,NA,0
+SPI,Southern Patagonian Ice Field,NA,0
+BRT,Bir Tawil,NA,0
+ATA,Antarctica,0,0
+ISL,Iceland,0.009,0
+STP,São Tomé and Principe,0,0
+CPV,Cabo Verde,0.001,0
+MLT,Malta,0.006,0
+PGA,Spratly Is.,NA,0
+BJN,Bajo Nuevo Bank,NA,0
+SER,Serranilla Bank,NA,0
+SCR,Scarborough Reef,NA,0
+PSE,Palestine,0.004,0
+KAS,Siachen Glacier,NA,0

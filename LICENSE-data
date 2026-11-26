@@ -1,0 +1,20 @@
+Data licence
+
+Copyright (c) 2026 Marine Biodiversity Conservation Lab
+
+The summary tables in data/ and the figure in outputs/ are licensed under the
+Creative Commons Attribution 4.0 International licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt them for any purpose, provided you give
+appropriate credit (cite the paper named in README.md and the original data
+sources listed there), link to the licence, and indicate if changes were made.
+
+Exclusions:
+- The IUCN Red List range polygons and assessment data are not distributed
+  here and remain subject to the IUCN Red List terms of use:
+  https://www.iucnredlist.org/terms/terms-of-use
+- The other source datasets listed in README.md (GCRMN regions, UNEP-WCMC
+  warm-water coral reefs, Marine Regions EEZ, Global Carbon Budget via Our
+  World in Data, Natural Earth) are not distributed here and keep their own
+  terms.
