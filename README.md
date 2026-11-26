@@ -1,5 +1,7 @@
 # coralRLI: threats, Red List Index and CO₂ responsibility for reef-building corals
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24566966.svg)](https://doi.org/10.5281/zenodo.24566966)
+
 This repository holds the minimal data and code needed to reproduce the
 three-panel figure on reef-building corals in:
 
@@ -254,7 +256,11 @@ the committed tables and the figure.
 Please cite the paper above: Yan HF and Dulvy NK. (2026) Accelerating extinction risk of reef-building corals.
 
 To cite this repository (data and code), use: Yan HF and Dulvy NK. (2026) coralRLI: threats, Red List Index and CO₂ responsibility
-for reef-building corals (data and code). Zenodo. [DOI]
+for reef-building corals (data and code). Zenodo.
+https://doi.org/10.5281/zenodo.24566966
+
+This concept DOI always resolves to the latest version; v1.0.0 is
+https://doi.org/10.5281/zenodo.24566967.
 
 ## Licence
 
