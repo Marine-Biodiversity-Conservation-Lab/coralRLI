@@ -259,8 +259,8 @@ To cite this repository (data and code), use: Yan HF and Dulvy NK. (2026) coralR
 for reef-building corals (data and code). Zenodo.
 https://doi.org/10.5281/zenodo.24566966
 
-This concept DOI always resolves to the latest version; v1.0.0 is
-https://doi.org/10.5281/zenodo.24566967.
+This concept DOI always resolves to the latest version; v1.0.1 is
+https://doi.org/10.5281/zenodo.24567055.
 
 ## Licence
 
